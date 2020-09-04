@@ -3,6 +3,6 @@
 
 int main(void) {
 
-    printf("Spencer\n");
+    printf("Spencer and Colton Hill\n");
     return 0;
 }
